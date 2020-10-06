@@ -69,9 +69,7 @@ const data = [
         word:"truating",
         mean:"kesal",
         exp:"everyone is truating here ",
-        exp_id:"semua orang kesal di sini
- 
-"
+        exp_id:"semua orang kesal di sini"
     },
     {
         word:"fired",
@@ -86,28 +84,28 @@ const data = [
         exp_id:"ini kesempatan yang langka"
     },
     {
-        word:"",
-        mean:"",
-        exp:"",
-        exp_id:""
+        word:"apologize",
+        mean:"minta maaf",
+        exp:"i apologize for the other night",
+        exp_id:"saya minta maaf untuk malam yang lalu"
     },
     {
-        word:"",
-        mean:"",
-        exp:"",
-        exp_id:""
+        word:"bickering",
+        mean:"pertengkaran",
+        exp:"continue your friendly bickering",
+        exp_id:"lanjutkan pertengkaranmu"
     },
     {
-        word:"",
-        mean:"",
-        exp:"",
-        exp_id:""
+        word:"stubborn",
+        mean:"keras kepala",
+        exp:"just girl is just stubborn",
+        exp_id:"hanya perempuan yang keras kepala"
     },
     {
-        word:"",
-        mean:"",
-        exp:"",
-        exp_id:""
+        word:"faith",
+        mean:"percaya",
+        exp:"have faith in your effort",
+        exp_id:"percayalah pada usahamu"
     },
     {
         word:"",
