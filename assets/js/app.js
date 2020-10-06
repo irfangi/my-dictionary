@@ -15,7 +15,7 @@ var app = new Vue({
             }else{
                 let result = []
                 data.forEach((res, index) =>{
-                    if(res.word.toLocaleLowerCase().includes(keyword) || res.exp.toLocaleLowerCase().includes(keyword)){
+                    if(res.word.toLocaleLowerCase().includes(keyword.toLocaleLowerCase()) || res.exp.toLocaleLowerCase().includes(keyword.toLocaleLowerCase())){
                         result = [...result, res]
                     }
                 })
