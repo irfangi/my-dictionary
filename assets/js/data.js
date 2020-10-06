@@ -30,40 +30,40 @@ const data = [
         exp_id:"saudara selalu terlalu percaya diri"
     },
     {
-        word:"",
-        mean:"",
-        exp:"",
-        exp_id:""
+        word:"obedient",
+        mean:"taat/patuh",
+        exp:"you are so obedient admitting your crime",
+        exp_id:"Anda begitu patuh mengakui kejahatan Anda"
     },
     {
-        word:"",
-        mean:"",
-        exp:"",
-        exp_id:""
+        word:"pierced",
+        mean:"tertusuk",
+        exp:"then why do you want your ear to be pierced",
+        exp_id:"lalu mengapa kamu ingin telingamu ditindik"
     },
     {
-        word:"",
-        mean:"",
-        exp:"",
-        exp_id:""
+        word:"hesitate",
+        mean:"ragu-ragu",
+        exp:"at least you should hesitate a little",
+        exp_id:"setidaknya kamu harus sedikit ragu"
     },
     {
-        word:"",
-        mean:"",
-        exp:"",
-        exp_id:""
+        word:"cousins",
+        mean:"sepupu",
+        exp:"its my cousins picture",
+        exp_id:"itu foto sepupuku"
     },
     {
-        word:"",
-        mean:"",
-        exp:"",
-        exp_id:""
+        word:"threaten",
+        mean:"mengancam",
+        exp:"i have nothing to threaten you with anymore",
+        exp_id:"aku tidak punya apapun untuk mengancammu lagi"
     },
     {
-        word:"",
-        mean:"",
-        exp:"",
-        exp_id:""
+        word:"impatient",
+        mean:"tidak sabar",
+        exp:"no neet to be impatient",
+        exp_id:"tidak perlu terburu buru"
     }
 ]
 
